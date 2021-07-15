@@ -31,7 +31,7 @@ Shell: zsh & oh my zsh, wanna try alacritty as well
 Window Manager: awesome
 Neovim
 
-theme:
+Theme:
 dexpota/kitty-themes
 
 Others:
