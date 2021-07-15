@@ -55,3 +55,6 @@ screenshot
 browser
 
 All of my config files are very basic and simple. mostly copied from provided examples and others.
+
+![Screenshot from 2021-07-15 21-55-47](https://user-images.githubusercontent.com/22412008/125804754-f375885e-a8ee-40b0-8dee-fa233781b107.png)
+
