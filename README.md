@@ -69,3 +69,7 @@ All of my config files are very basic and simple. mostly copied from provided ex
 - oh-my-posh
 
 - VLC media player
+
+- Windows Terminal
+
+- Mdict
