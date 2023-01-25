@@ -80,7 +80,7 @@ All of my config files are very basic and simple. mostly copied from provided ex
 
 ## oh-my-posh theme
 
-- powerlevel10k_lean.omp.json
+- powerlevel10k_lean
 
 ## Windows Terminal theme
 
