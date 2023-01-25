@@ -73,3 +73,15 @@ All of my config files are very basic and simple. mostly copied from provided ex
 - Windows Terminal
 
 - Mdict
+
+## Font
+
+- FiraCode Nerd Font
+
+## oh-my-posh theme
+
+- powerlevel10k_lean.omp.json
+
+## Windows Terminal theme
+
+- Chester
