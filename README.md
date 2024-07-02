@@ -2,7 +2,7 @@
 
 Recently I got really into Linux customization and configuration.
 
-Things started from text editor. I've been using VSCode for a while.
+Things started from code editor. I've been using VSCode for a while.
 
 I really like VSCode except for one thing, the themes.
 
@@ -10,16 +10,15 @@ There's not a single theme I used for more than a week.
 
 Not a single theme that could let my eyes stayed comfortable after hours of coding.
 
-I tried numbers of font and theme combinations, however none of theme I got quite happy with.
+I tried numbers of font and theme combinations, however none of them I got quite happy with.
 
-One month ago I accidentally found a Youtube video about VIM customization and the gruvbox theme heuses looks pretty good, better than on VSCode.
+One month ago I accidentally found a Youtube video about Vim customization and the gruvbox theme heuses looks pretty good, better than on VSCode.
 
 I didn't give much thought on it at first as my main focus is learning how to code!
 
 Util like a week ago I felt I couldn't bear it any longer and decided to switch to VIM.
 
-Along with customizing VIM I realized that I also need a better window manager to reduce the time
-I spend on arranging windows.
+Along with customizing Vim I realized that I also need a better window manager to reduce the time I spend on arranging windows.
 
 Then here I am!
 
